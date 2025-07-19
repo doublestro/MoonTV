@@ -77,7 +77,7 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "maotai"{
+    "maotai": {
       "api":"https://caiji.maotaizy.cc/api.php/provide/vod",
       "name":"茅台资源"
     }
